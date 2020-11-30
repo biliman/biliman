@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biliman" alt="biliman" /> </p>
 
 
-- 🔭 I’m currently working on **Melawi District Financial System Projects**
+- 🔭 I’m currently working on **AIA Singapore Pte Ltd**
 
 - 🌱 I’m currently learning **Go, Java, Devops(Roadmap)**
 
