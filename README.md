@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fickry.bil.iman@gmail.com**
 
-- ⚡ Fun fact **I ❤️ my religion, ❤️ my family, ❤️ my nation, ❤️ my life, ❤️ my friends, ❤️ peace, not ❤️ a code, but I definitely write code with ❤️.**
+- ⚡ Fun fact **I ❤️ my religion, ❤️ my family, ❤️ my nation, ❤️ my life, ❤️ my friends, ❤️ peace, but not ❤️ a code, but I definitely write code with ❤️.**
 
 ## Favourite tech stack
 ### ❤️ (Programming language, frontend, backend, mobile, database, devops, others) 
