@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Fickry Bil Iman](https://www.github.com/biliman)
 
-<h3 align="center">I'm a network and system engineer who try to switch careers and getting into programming and devops.</h3>
+<h3 align="center">I'm a network and system engineer, switch careers and getting into programming and devops.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biliman" alt="biliman" /> </p>
 
